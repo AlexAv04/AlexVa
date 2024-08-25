@@ -1,0 +1,42 @@
+.div_principal{
+    background-color: green;
+    width: 400px;
+    height: 650px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.div_2{
+    background-color: white;
+    width: 300px;
+    height: 550px;
+    margin:auto;
+    padding: 20px;
+    margin-top: 30px;
+}
+.div_3{
+    background-color:rgb(184, 140, 31);
+    width: 250px;
+    height: 500px;
+    margin:auto;
+}
+.palabra{
+    color: rgb(27, 60, 167);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.name h2{
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+.name{
+    background-color: rgb(89, 143, 82);
+    width: 300px;
+    height: 90px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:auto;
+    margin-bottom: 40px;
+}
